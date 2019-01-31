@@ -1,5 +1,5 @@
 # jdk8-aws-iam-authenticator
-A lighwight docker image based on alpine3.8 containg AWS IAM authenticator and jdk8
+A lightweight docker image based on alpine3.8 containg AWS IAM authenticator and jdk8
 
 
 ### Build
