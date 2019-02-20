@@ -14,5 +14,5 @@ docker run -t -i -e AWS_ACCESS_KEY_ID='<KEY>' \
                  -e AWS_DEFAULT_REGION='<REGION>' \
                  -e AWS_DEFAULT_OUTPUT='json' \
                  jdk8-aws-iam-authenticator \
-                 ./aws-iam-authenticator token -i <CLUSTER_NAME>
+                 aws-iam-authenticator token -i <CLUSTER_NAME>
 ```
